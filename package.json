@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@playwright/test": "^1.44.1"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
